@@ -25,17 +25,17 @@ To minimize the loss of image details the size of images that were used to train
 This model can identify 6 differentiations in paddy cultivations.
 
 <h4><center>Healthy Paddy plants 
-<img src="images\DataSet\Healthy (1).jpg" alt="" title="Healthy"  style="width:248px;height:128px;" /></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/Healthy%20(1).jpg" alt="Healthy Paddy plants " title="Healthy Paddy plants "  style="width:248px;height:128px;" /></center></h4>
 <h4><center>Plants with nutrient deficiency
-<img src="images\DataSet\LowFertile (1).jpg" alt="Alt text that describes the graphic" title="Title text" style="width:248px;height:128px;" /></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/LowFertile%20(675).jpg" alt="Plants with nutrient deficiency" title="Plants with nutrient deficiency" style="width:248px;height:128px;" /></center></h4>
 <h4><center>Plants with Weed type 1 
-<img src="images\DataSet\WeedType1 (1).jpg" alt="Alt text that describes the graphic" title="Title text" style="width:248px;height:128px;"/></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/WeedType1%20(136).jpg" alt="Plants with Weed type 1" title="Plants with Weed type 1" style="width:248px;height:128px;"/></center></h4>
 <h4><center> Plants with Weed type 2
-<img src="images\DataSet\WeedType2 (1).jpg" alt="Alt text that describes the graphic" title="Title text" style="width:248px;height:128px;"/></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/WeedType2%20(304).jpg" alt="Plants with Weed type 2" title="Plants with Weed type 2" style="width:248px;height:128px;"/></center></h4>
 <h4><center> Plants with Weed type 3
-<img src="images\DataSet\WeedType3 (55).jpg" alt="Alt text that describes the graphic" title="Title text" style="width:248px;height:128px;"/></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/WeedType3%20(127).jpg" alt="Plants with Weed type 3" title="Plants with Weed type 3" style="width:248px;height:128px;"/></center></h4>
 <h4><center> Plants with Weed type 4
-<img src="images\DataSet\WeedType4 (1).jpg" alt="Alt text that describes the graphic" title="Title text" style="width:248px;height:128px;"/></center></h4>
+<img src="https://github.com/Archfx/eKema/blob/master/images/Demo/WeedType4%20(262).jpg" alt="Plants with Weed type 4" title="Plants with Weed type 4" style="width:248px;height:128px;"/></center></h4>
 
 User can input a image/ images which contains paddy, model will classify the image/ images with percentages of above classifications. 
 
@@ -62,7 +62,7 @@ Layer implementation can be found [here](#layerimp)
 
 #### model interpretation
 
-<img src="images\Report\Equations\sm.png" alt="Alt text that describes the graphic" title="Title text" />
+<img src="https://github.com/Archfx/eKema/tree/master/images/Report/Equations/sm.png" alt="model interpretation" title="model interpretation" />
 
 
 #### Why 5 -layer Neural Network
