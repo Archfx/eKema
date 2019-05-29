@@ -1,5 +1,5 @@
 # eKema
-Machine learning on android
+Machine learning to paddy cultivation
 # Neural network based Paddy cultivation Inspection
 <b>Revisited Version</b>
 
