@@ -62,7 +62,7 @@ Layer implementation can be found [here](#layerimp)
 
 #### model interpretation
 
-<img src="https://github.com/Archfx/eKema/tree/master/images/Report/Equations/sm.png" alt="model interpretation" title="model interpretation" />
+<img src="images/Report/Equations/sm.png" alt="model interpretation" title="model interpretation" />
 
 
 #### Why 5 -layer Neural Network
