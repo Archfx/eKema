@@ -38,7 +38,7 @@ This model can identify 6 differentiations in paddy cultivations.
 <img src="https://github.com/Archfx/eKema/blob/master/images/Demo/WeedType4%20(262).jpg" alt="Plants with Weed type 4" title="Plants with Weed type 4" style="width:248px;height:128px;"/></center></h4>
 
 User can input a image/ images which contains paddy, model will classify the image/ images with percentages of above classifications. 
-You can download the dataset from [here] (https://drive.google.com/drive/folders/1N2rm9vGd1qGwPV1pwQ6DK94qfFC-zjkZ?usp=sharing)
+You can download the dataset from <a href="https://drive.google.com/drive/folders/1N2rm9vGd1qGwPV1pwQ6DK94qfFC-zjkZ?usp=sharing">here/</a>
  ### 3. Network architecture
 
 Five-layer neural network, input layer 64x64x3= 12 288, output 6 (6 types which were mentioned  in the System Design)
